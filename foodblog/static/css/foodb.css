@@ -1,0 +1,44 @@
+h1{
+    font-size: 36px;
+    margin: 0;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.site-header{
+    position: relative;
+
+}
+
+.nav__wrapper{
+    background-color: maroon;
+    overflow: hidden;
+    text-align: center;
+    padding: 5px;
+}
+
+.nav__item li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0;
+}
+
+.nav__item a:hover{
+    background-color: black;
+}
+
+@media only screen and (max-width: 600px){
+    .nav__item li{
+        padding: 20px;
+    }
+}
+
+p{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+header li a {
+    margin: 0;
+}
