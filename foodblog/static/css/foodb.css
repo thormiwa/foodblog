@@ -24,6 +24,12 @@ h1{
     padding: 25px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 }
 
+li.nav__item{
+    color: #fff;
+    text-decoration: none;
+    padding: 25px;
+}
+
 .nav__item a:hover{
     background-color: black;
 }
